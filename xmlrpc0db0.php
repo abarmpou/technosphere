@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://research.dwi.ufl.edu/projects/technosphere</homePageLink>
+		<homePageLink>https://abarmpou.github.io/technosphere</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://research.dwi.ufl.edu/projects/technosphere/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://research.dwi.ufl.edu/projects/technosphere/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://research.dwi.ufl.edu/projects/technosphere/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://research.dwi.ufl.edu/projects/technosphere/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://research.dwi.ufl.edu/projects/technosphere/index.php/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://abarmpou.github.io/technosphere/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://abarmpou.github.io/technosphere/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://abarmpou.github.io/technosphere/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://abarmpou.github.io/technosphere/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://abarmpou.github.io/technosphere/index.php/wp-json/" />
 			</apis>
 	</service>
 </rsd>
